@@ -18,7 +18,7 @@ namespace CalculatorTest
             {
                 //Arrange 
                 double
-                number1 = 3.4;
+                number1 = 4.4;
                 double
                 number2 = 5.6;
                 double
