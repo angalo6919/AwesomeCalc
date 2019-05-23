@@ -75,7 +75,7 @@ namespace CalculatorTest
             {
                 //Arrange 
                 double
-                number1 = 5;
+                number1 = 6;
                 double
                 number2 = 2;
                 double
